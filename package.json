@@ -1,0 +1,17 @@
+{
+  "name": "teikan",
+  "version": "0.1.0",
+  "description": "諦観",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/RedXVII/teikan",
+  "keywords": [
+    "image"
+  ],
+  "author": "RedXVII",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
